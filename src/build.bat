@@ -1,0 +1,1 @@
+g++ -shared -o build\serialib_native.dll main.cpp serialib.cpp
