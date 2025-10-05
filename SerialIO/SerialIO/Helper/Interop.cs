@@ -2,7 +2,7 @@
 
 namespace SerialIO.Helper;
 
-public static class SerialLibWrapper
+public static class Interop
 {
     public const string Lib = "serialib_native.dll";
 
